@@ -1,10 +1,10 @@
 body, html {
     height: 100%;
-    background-color: rgb(0, 0, 0);
+    background-image: url("images/icy-village-taiga.png");
 }
 
 * {
-    color: goldenrod;
+    color: black;
     text-align: center;
     font-weight: bold;
 }
@@ -18,7 +18,7 @@ a {
 }
 
 a:link, a:visited {
-    background-color: goldenrod;
+    background-color: cadetblue;
     color: white;
     padding: 15px 25px;
     text-align: center;
@@ -41,21 +41,21 @@ a:link, a:visited {
     margin-top: 1em;
     border-radius: 1em;
     padding: 15px 25px;
-    background-color: rgb(85, 85, 85);
+    background-color: rgba(0, 173, 173, 0.308);
 }
 
 #discordconnect {
     margin-top: 0.5em;
     border-radius: 1em;
     padding: 15px 25px;
-    background-color: rgb(85, 85, 85);
+    background-color: rgba(0, 173, 173, 0.308);
 }
 
 #simplecoordinates {
     margin-top: 0.5em;
     border-radius: 1em;
     padding: 15px 25px;
-    background-color: rgb(85, 85, 85);
+    background-color: rgba(0, 173, 173, 0.308);
 }
 
 #unreleased {
