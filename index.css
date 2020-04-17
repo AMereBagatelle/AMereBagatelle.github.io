@@ -43,14 +43,14 @@ a:link, a:visited {
 }
 
 #discordconnect {
-    margin-top: 2em;
+    margin-top: 0.5em;
     border-radius: 1em;
     padding: 15px 25px;
     background-color: aqua;
 }
 
 #simplecoordinates {
-    margin-top: 2em;
+    margin-top: 0.5em;
     border-radius: 1em;
     padding: 15px 25px;
     background-color: aqua;
