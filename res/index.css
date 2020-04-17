@@ -1,6 +1,57 @@
+body, html {
+    height: 100%;
+    background-image: whitesmoke;
+}
+
 * {
     text-align: center;
 }
+
 a {
     font-size: medium;
+}
+
+a:link, a:visited {
+    background-color: rgb(255, 159, 32);
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#mods {
+    border-color: aqua;
+}
+
+#mods {
+    margin: auto auto;
+    border-radius: 1em;
+    color: rgb(0, 0, 0);
+    font-size: 1.2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px 25px;
+    width: fit-content;
+    display: block;
+}
+
+#afkpeace {
+    margin-top: 1em;
+    border-radius: 1em;
+    padding: 15px 25px;
+    background-color: aqua;
+}
+
+#discordconnect {
+    margin-top: 2em;
+    border-radius: 1em;
+    padding: 15px 25px;
+    background-color: aqua;
+}
+
+#simplecoordinates {
+    margin-top: 2em;
+    border-radius: 1em;
+    padding: 15px 25px;
+    background-color: aqua;
 }
