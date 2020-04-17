@@ -9,6 +9,10 @@ body, html {
     font-weight: bold;
 }
 
+p {
+    font-size: 1.2em;
+}
+
 a {
     font-size: medium;
 }
@@ -27,7 +31,6 @@ a:link, a:visited {
     margin: auto auto;
     border-radius: 1em;
     color: rgb(0, 0, 0);
-    font-size: 1.2em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 15px 25px;
     width: fit-content;
