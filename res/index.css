@@ -41,21 +41,21 @@ a:link, a:visited {
     margin-top: 1em;
     border-radius: 1em;
     padding: 15px 25px;
-    background-color: rgba(0, 173, 173, 0.308);
+    background-color: rgba(0, 173, 173, 0.507);
 }
 
 #discordconnect {
     margin-top: 0.5em;
     border-radius: 1em;
     padding: 15px 25px;
-    background-color: rgba(0, 173, 173, 0.308);
+    background-color: rgba(0, 173, 173, 0.507);
 }
 
 #simplecoordinates {
     margin-top: 0.5em;
     border-radius: 1em;
     padding: 15px 25px;
-    background-color: rgba(0, 173, 173, 0.308);
+    background-color: rgba(0, 173, 173, 0.507);
 }
 
 #unreleased {
