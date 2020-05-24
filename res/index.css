@@ -58,6 +58,13 @@ a:link, a:visited {
     background-color: rgba(0, 173, 173, 0.507);
 }
 
+#thresher {
+    margin-top: 0.5em;
+    border-radius: 1em;
+    padding: 15px 25px;
+    background-color: rgba(0, 173, 173, 0.507);
+}
+
 #unreleased {
     color: red;
 }
